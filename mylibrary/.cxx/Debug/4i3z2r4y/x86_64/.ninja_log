@@ -1,0 +1,27 @@
+# ninja log v5
+0	14	1655769039	CMakeFiles/mylibrary.dir/mylibrary.cpp.o	14f0b843f738d459
+14	37	1655769040	/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/build/intermediates/cxx/Debug/4i3z2r4y/obj/x86_64/libmylibrary.so	efc74af4aa05e25b
+0	4	0	clean	b802f3c1338e322b
+0	14	1655769139	CMakeFiles/mylibrary.dir/mylibrary.cpp.o	14f0b843f738d459
+14	27	1655769139	/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/build/intermediates/cxx/Debug/4i3z2r4y/obj/x86_64/libmylibrary.so	efc74af4aa05e25b
+1	4	0	clean	b802f3c1338e322b
+0	17	1655769278	CMakeFiles/mylibrary.dir/mylibrary.cpp.o	14f0b843f738d459
+17	34	1655769278	/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/build/intermediates/cxx/Debug/4i3z2r4y/obj/x86_64/libmylibrary.so	efc74af4aa05e25b
+0	3	0	clean	b802f3c1338e322b
+0	16	1655769909	CMakeFiles/mylibrary.dir/mylibrary.cpp.o	14f0b843f738d459
+16	29	1655769909	/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/build/intermediates/cxx/Debug/4i3z2r4y/obj/x86_64/libmylibrary.so	efc74af4aa05e25b
+0	4	0	clean	b802f3c1338e322b
+1	13	1655769947	CMakeFiles/mylibrary.dir/mylibrary.cpp.o	14f0b843f738d459
+13	26	1655769947	/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/build/intermediates/cxx/Debug/4i3z2r4y/obj/x86_64/libmylibrary.so	efc74af4aa05e25b
+0	4	0	clean	b802f3c1338e322b
+0	11	1655770069	CMakeFiles/mylibrary.dir/mylibrary.cpp.o	14f0b843f738d459
+11	24	1655770069	/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/build/intermediates/cxx/Debug/4i3z2r4y/obj/x86_64/libmylibrary.so	efc74af4aa05e25b
+0	3	0	clean	b802f3c1338e322b
+0	10	1655815699	CMakeFiles/mylibrary.dir/mylibrary.cpp.o	14f0b843f738d459
+10	26	1655815699	/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/build/intermediates/cxx/Debug/4i3z2r4y/obj/x86_64/libmylibrary.so	efc74af4aa05e25b
+0	2	0	clean	b802f3c1338e322b
+0	25	1655815771	CMakeFiles/mylibrary.dir/mylibrary.cpp.o	14f0b843f738d459
+25	41	1655815771	/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/build/intermediates/cxx/Debug/4i3z2r4y/obj/x86_64/libmylibrary.so	efc74af4aa05e25b
+0	2	0	clean	b802f3c1338e322b
+0	10	1655815889	CMakeFiles/mylibrary.dir/mylibrary.cpp.o	14f0b843f738d459
+10	26	1655815889	/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/build/intermediates/cxx/Debug/4i3z2r4y/obj/x86_64/libmylibrary.so	efc74af4aa05e25b

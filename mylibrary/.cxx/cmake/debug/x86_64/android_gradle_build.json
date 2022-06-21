@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/chsiao/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/.cxx/cmake/debug/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/chsiao/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/.cxx/cmake/debug/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "mylibrary-Debug-x86_64": {
+      "buildCommandComponents": [
+        "/home/chsiao/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/.cxx/cmake/debug/x86_64",
+        "mylibrary"
+      ],
+      "buildType": "debug",
+      "abi": "x86_64",
+      "artifactName": "mylibrary",
+      "output": "/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/build/intermediates/cmake/debug/obj/x86_64/libmylibrary.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

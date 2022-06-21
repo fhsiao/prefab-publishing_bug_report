@@ -1,0 +1,3 @@
+# ninja log v5
+1	15	1655770538	CMakeFiles/mylibrary.dir/mylibrary.cpp.o	2947ee907ece1b13
+15	33	1655770538	/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/build/intermediates/cmake/debug/obj/x86_64/libmylibrary.so	db33dc50b7253bc8

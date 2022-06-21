@@ -1,0 +1,27 @@
+# ninja log v5
+0	15	1655769039	CMakeFiles/mylibrary.dir/mylibrary.cpp.o	c30f3718dcb78257
+15	32	1655769039	/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/build/intermediates/cxx/Debug/4i3z2r4y/obj/arm64-v8a/libmylibrary.so	46caab7b9544943d
+0	3	0	clean	b802f3c1338e322b
+0	15	1655769139	CMakeFiles/mylibrary.dir/mylibrary.cpp.o	c30f3718dcb78257
+15	31	1655769139	/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/build/intermediates/cxx/Debug/4i3z2r4y/obj/arm64-v8a/libmylibrary.so	46caab7b9544943d
+0	3	0	clean	b802f3c1338e322b
+0	18	1655769277	CMakeFiles/mylibrary.dir/mylibrary.cpp.o	c30f3718dcb78257
+18	36	1655769277	/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/build/intermediates/cxx/Debug/4i3z2r4y/obj/arm64-v8a/libmylibrary.so	46caab7b9544943d
+0	3	0	clean	b802f3c1338e322b
+0	18	1655769908	CMakeFiles/mylibrary.dir/mylibrary.cpp.o	c30f3718dcb78257
+18	36	1655769908	/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/build/intermediates/cxx/Debug/4i3z2r4y/obj/arm64-v8a/libmylibrary.so	46caab7b9544943d
+1	7	0	clean	b802f3c1338e322b
+0	14	1655769947	CMakeFiles/mylibrary.dir/mylibrary.cpp.o	c30f3718dcb78257
+14	29	1655769947	/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/build/intermediates/cxx/Debug/4i3z2r4y/obj/arm64-v8a/libmylibrary.so	46caab7b9544943d
+0	2	0	clean	b802f3c1338e322b
+0	13	1655770069	CMakeFiles/mylibrary.dir/mylibrary.cpp.o	c30f3718dcb78257
+13	27	1655770069	/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/build/intermediates/cxx/Debug/4i3z2r4y/obj/arm64-v8a/libmylibrary.so	46caab7b9544943d
+0	2	0	clean	b802f3c1338e322b
+0	52	1655815699	CMakeFiles/mylibrary.dir/mylibrary.cpp.o	c30f3718dcb78257
+52	179	1655815699	/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/build/intermediates/cxx/Debug/4i3z2r4y/obj/arm64-v8a/libmylibrary.so	46caab7b9544943d
+0	2	0	clean	b802f3c1338e322b
+0	29	1655815771	CMakeFiles/mylibrary.dir/mylibrary.cpp.o	c30f3718dcb78257
+29	46	1655815771	/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/build/intermediates/cxx/Debug/4i3z2r4y/obj/arm64-v8a/libmylibrary.so	46caab7b9544943d
+0	5	0	clean	b802f3c1338e322b
+1	24	1655815889	CMakeFiles/mylibrary.dir/mylibrary.cpp.o	c30f3718dcb78257
+24	42	1655815889	/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/build/intermediates/cxx/Debug/4i3z2r4y/obj/arm64-v8a/libmylibrary.so	46caab7b9544943d

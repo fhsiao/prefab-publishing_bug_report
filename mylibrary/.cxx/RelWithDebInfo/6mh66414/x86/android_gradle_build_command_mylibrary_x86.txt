@@ -1,0 +1,7 @@
+Executable : /home/chsiao/Android/Sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/.cxx/RelWithDebInfo/6mh66414/x86
+mylibrary
+jvmArgs : 
+

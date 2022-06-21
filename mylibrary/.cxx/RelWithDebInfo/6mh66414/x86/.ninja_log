@@ -1,0 +1,13 @@
+# ninja log v5
+0	16	1655769040	CMakeFiles/mylibrary.dir/mylibrary.cpp.o	1152d463ceba3970
+16	29	1655769040	/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/build/intermediates/cxx/RelWithDebInfo/6mh66414/obj/x86/libmylibrary.so	34e20f1ee12235f5
+0	2	0	clean	b802f3c1338e322b
+0	15	1655769139	CMakeFiles/mylibrary.dir/mylibrary.cpp.o	1152d463ceba3970
+15	37	1655769139	/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/build/intermediates/cxx/RelWithDebInfo/6mh66414/obj/x86/libmylibrary.so	34e20f1ee12235f5
+0	4	0	clean	b802f3c1338e322b
+0	3	0	clean	b802f3c1338e322b
+0	2	0	clean	b802f3c1338e322b
+0	3	0	clean	b802f3c1338e322b
+0	2	0	clean	b802f3c1338e322b
+0	7	0	clean	b802f3c1338e322b
+0	2	0	clean	b802f3c1338e322b

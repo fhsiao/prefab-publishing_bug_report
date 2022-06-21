@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/chsiao/Android/Sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/.cxx/RelWithDebInfo/6mh66414/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/chsiao/Android/Sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/.cxx/RelWithDebInfo/6mh66414/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "mylibrary::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "mylibrary",
+      "output": "/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/build/intermediates/cxx/RelWithDebInfo/6mh66414/obj/arm64-v8a/libmylibrary.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/home/chsiao/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/linux-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/home/chsiao/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

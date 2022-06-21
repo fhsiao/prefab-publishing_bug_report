@@ -1,0 +1,3 @@
+/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/.cxx/RelWithDebInfo/6mh66414/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/.cxx/RelWithDebInfo/6mh66414/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/.cxx/RelWithDebInfo/6mh66414/arm64-v8a/CMakeFiles/mylibrary.dir

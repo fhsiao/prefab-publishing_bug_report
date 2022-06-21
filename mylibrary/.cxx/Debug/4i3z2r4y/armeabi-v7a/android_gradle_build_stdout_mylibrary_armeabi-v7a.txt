@@ -1,0 +1,3 @@
+ninja: Entering directory `/home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/.cxx/Debug/4i3z2r4y/armeabi-v7a'
+[1/2] Building CXX object CMakeFiles/mylibrary.dir/mylibrary.cpp.o
+[2/2] Linking CXX shared library /home/chsiao/workspace_slnk/ndk-samples/prefab/prefab-publishing/mylibrary/build/intermediates/cxx/Debug/4i3z2r4y/obj/armeabi-v7a/libmylibrary.so
